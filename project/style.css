@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #262626;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    
+}
+span {
+    font-size: 80px;
+    font-family: 'Lato',
+        sans-serif;
+    letter-spacing: 10px;
+    color: #484848;
+   }
+.l{
+    animation: L 1s linear 1s;
+    
+}
+.i {
+    animation: I 1s linear 1.5s;
+}
+.g {
+    animation: G 1s linear 2s;
+}
+
+.h {
+    animation: H 1s linear 2.5s;
+}
+.t {
+    animation: T 1s linear 3s;
+}
+.ii {
+    animation: II 1s linear 3.5s;
+}
+.n {
+    animation: N 1s linear 4s;
+}
+.gg{
+    animation: GG 1s linear 4.5s;
+}
+
+@keyframes L {
+    0% {
+        color: #484848;
+    }
+50%{
+    color: #fff900;
+text-shadow:0 0 5px #ff6c00;
+}
+    100% {
+   color: #484848;
+    }
+}
+
+
+@keyframes I {
+    0% {
+        color: #484848;
+    }
+
+    50% {
+        color: #fff900;
+text-shadow:0 0 5px #ff6c00;
+    }
+
+    100% {
+        color: #484848;
+    }
+}
+
+@keyframes G {
+    0% {
+        color: #484848;
+    }
+
+    50% {
+        color: #fff900;
+text-shadow:0 0 5px #ff6c00;
+    }
+
+    100% {
+        color: #484848;
+    }
+}
+@keyframes H {
+    0% {
+        color: #484848;
+    }
+
+    50% {
+        color: #fff900;
+text-shadow:0 0 5px #ff6c00;
+    }
+
+    100% {
+        color: #484848;
+    }
+}
+@keyframes T {
+    0% {
+        color: #484848;
+    }
+
+    50% {
+        color: #fff900;
+text-shadow:0 0 5px #ff6c00;
+    }
+
+    100% {
+        color: #484848;
+    }
+}
+@keyframes II {
+    0% {
+        color: #484848;
+    }
+
+    50% {
+        color: #fff900;
+text-shadow:0 0 5px #ff6c00;
+    }
+
+    100% {
+        color: #484848;
+    }
+}
+@keyframes N {
+    0% {
+        color: #484848;
+    }
+
+    50% {
+        color: #fff900;
+text-shadow:0 0 5px #ff6c00;
+    }
+
+    100% {
+        color: #484848;
+    }
+}
+@keyframes GG {
+    0% {
+        color: #484848;
+    }
+
+    50% {
+    color: #fff900;
+text-shadow:0 0 5px #ff6c00;
+    }
+
+    100% {
+        color: #484848;
+    }
+}
