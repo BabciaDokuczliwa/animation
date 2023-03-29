@@ -22,30 +22,30 @@ span {
     color: #484848;
    }
 .l{
-    animation: L 1s linear 1s;
+    animation: L 2s 1s linear infinite ;
     
 }
 .i {
-    animation: I 1s linear 1.5s;
+    animation: I 2.5s 1s linear infinite;
 }
 .g {
-    animation: G 1s linear 2s;
+    animation: G 3s linear 1s infinite;
 }
 
 .h {
-    animation: H 1s linear 2.5s;
+    animation: H 3.5s linear 1s infinite;
 }
 .t {
-    animation: T 1s linear 3s;
+    animation: T 3.5s linear 1s infinite;
 }
 .ii {
-    animation: II 1s linear 3.5s;
+    animation: II 4s linear 1s infinite;
 }
 .n {
-    animation: N 1s linear 4s;
+    animation: N 4.5s linear 1s infinite;
 }
 .gg{
-    animation: GG 1s linear 4.5s;
+    animation: GG 5s linear 1s infinite;
 }
 
 @keyframes L {
